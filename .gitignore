@@ -1,0 +1,15 @@
+# KiCad temporary files
+*.bak
+*.bck
+*.kicad_prl
+*.kicad_pro~
+*-backups/
+_autosave-*
+fp-info-cache
+*.dcm
+*.tmp
+*.lock
+
+# KiCad 3D cache
+*.step~
+*.wrl~
