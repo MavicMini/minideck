@@ -17,10 +17,10 @@ MiniDeck is a macropad that I have designed to have a lot of functionality in a 
 - ❌ HomeAssistant integration
 
 ## Renders
-<img src="Assets/CAD_render.png" alt="CAD Render 1" width="600">
-<img src="Assets/CAD_render_2.png" alt="CAD Render 2" width="600">
-<img src="Assets/PCB_render.png" alt="PCB Render 1" width="600">
-<img src="Assets/PCB_render_2.png" alt="PCB Render 2" width="600">
+<img src="Assets/CAD_render.png" alt="CAD Render 1" width="400">
+<img src="Assets/CAD_render_2.png" alt="CAD Render 2" width="400">
+<img src="Assets/PCB_render.png" alt="PCB Render 1" width="400">
+<img src="Assets/PCB_render_2.png" alt="PCB Render 2" width="400">
 
 
 ## CAD Model
