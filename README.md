@@ -12,7 +12,9 @@ MiniDeck is a macropad that I have designed to have a lot of functionality in a 
 
 ## TODO
 - ✅ PCB design
-- ❌ KMK firmware
+- ✅ Case Design
+- ✅ Basic KMK firmware
+- ❌ Expanded KMK Firmware
 - ❌ QMK firmware
 - ❌ HomeAssistant integration
 
