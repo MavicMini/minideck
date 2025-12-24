@@ -12,4 +12,5 @@ fp-info-cache
 *.step~
 *.wrl~
 *.step
-*.sch-bak
+*.kicad_sch-bak
+*.csv
