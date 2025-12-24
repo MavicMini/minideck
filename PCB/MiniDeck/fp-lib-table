@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX Switches")(type "KiCad")(uri "C:/Users/qp23n/Downloads/MX_V2-main/MX_V2-main")(options "")(descr ""))
+  (lib (name "Encoder")(type "KiCad")(uri "C:/Users/qp23n/Downloads/Rotary_Encoder.pretty")(options "")(descr ""))
+  (lib (name "Screen")(type "KiCad")(uri "C:/Users/qp23n/Downloads/OLED")(options "")(descr ""))
+  (lib (name "OPL")(type "KiCad")(uri "${KIPRJMOD}/OPL_Kicad_Library-master/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "128*32 Oled")(type "KiCad")(uri "C:/Users/qp23n/Downloads/KiCad-SSD1306_OLED-0.91-128x32-master")(options "")(descr ""))
+  (lib (name "Keyswitch")(type "KiCad")(uri "${KIPRJMOD}/Keyswitch.pretty")(options "")(descr ""))
+)
