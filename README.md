@@ -10,7 +10,7 @@ MiniDeck is a macropad that I have designed to have a lot of functionality in a 
 - 0.91" 128x32 OLED display
 - Sleek case with M3 heat set inserts
 
-## TODO
+## To Do
 - ✅ PCB design
 - ✅ Case Design
 - ✅ Basic KMK firmware
